@@ -1,0 +1,157 @@
+{
+  "version": "coordinator launcher 1",
+  "currentProvider": "larkspur",
+  "assigned": "larkspur/orion-8",
+  "records": [
+    {
+      "id": "harbin/lyra-1",
+      "fit": 88,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": false,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "larkspur/kestrel-3",
+      "fit": 93,
+      "pricing": {
+        "status": "paid",
+        "input": 2,
+        "output": 8
+      },
+      "available": false,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "northwind/ember-3",
+      "fit": 72,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": false,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "larkspur/juno-6",
+      "fit": 79,
+      "pricing": {
+        "status": "paid",
+        "input": 2,
+        "output": 8
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "larkspur/orion-8",
+      "fit": 90,
+      "pricing": {
+        "status": "paid",
+        "input": 2,
+        "output": 8
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "northwind/boreal-8",
+      "fit": 100,
+      "pricing": {
+        "status": "paid",
+        "input": 5,
+        "output": 20
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "harbin/dorado-5",
+      "fit": 98,
+      "pricing": {
+        "status": "unknown",
+        "input": null,
+        "output": null
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "harbin/mistral-4",
+      "fit": 96,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": true,
+      "eligible": false,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "northwind/atlas-4",
+      "fit": 99,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": false,
+      "eligible": true,
+      "suitable": true,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "northwind/falcon-8",
+      "fit": 30,
+      "pricing": {
+        "status": "verified-free",
+        "input": 0,
+        "output": 0
+      },
+      "available": true,
+      "eligible": true,
+      "suitable": false,
+      "evidence": "Task-fit rank from the owner's allow-list review; not a benchmark.",
+      "pricingSource": "Account tariff, USD per million input/output tokens",
+      "observedAt": "2026-11-13T00:00:00.000Z"
+    }
+  ]
+}
